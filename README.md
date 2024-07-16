@@ -1,7 +1,3 @@
-## Demo
-
-[![asciicast](https://asciinema.org/a/Lr0L3Jy2FElKZmXEEb3BxIAod.svg)](https://asciinema.org/a/Lr0L3Jy2FElKZmXEEb3BxIAod)
-
 # Push-Gossip model
 
 Simulated model for efficiency evaluation of push-gossip protocol. 
@@ -62,8 +58,3 @@ Reused avg: 544
 Application outputs model params and simulation results. 
 `3:743(74.3%)` in example above means that 743 out of 1000 
 experiments (74.3%) were finished in 3 propagation hops. 
-
-## License
-
-This project is licensed under the GPL v3.0 License - see the 
-[LICENSE.md](LICENSE.md) file for details
